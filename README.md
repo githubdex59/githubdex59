@@ -1,16 +1,12 @@
-## Hi there 👋
+## All your job-offers are belong to us
+Hi, I'm a backend dev.
+I can use rust with Axum for it but if the pay is high enough I'll even learn Malbolge.
 
-<!--
-**githubdex59/githubdex59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## FAQ
+### Why is your git history so empty
+Answer: I self host my git server and I don't post most of my stuff, I only put out 110% of my skill into the world, hire me and you'll get that too
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My favourite repos
+- You know what it is, the program the myth the legend, [[https://github.com/torvalds/linux]]
+- [[[https://github.com/k3s-io/k3s]], I use it nearly every day
+- [[https://github.com/rust-lang/rust]], I've been using it for ages now
